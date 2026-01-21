@@ -1,2 +1,2 @@
 # cd-image
-instadelete
+insta
